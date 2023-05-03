@@ -2,6 +2,15 @@
 some also knowledge about aws cloud and linux because to first step to create a docker and some command run in docker.
 
 
+Some basic knowledgae abhout aws cloud just like:-
+
+EC2
+LAMBDA
+IAM
+SSM
+API GATEWAY
+
+
 How do install docker in amazone aws cloud
 
 yum install docker
