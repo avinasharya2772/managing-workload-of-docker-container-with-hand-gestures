@@ -2,9 +2,18 @@
 some also knowledge about aws cloud and linux because to first step to create a docker and some command run in docker.
 
 
+How do install docker in amazone aws cloud
+
+yum install docker
+
+Some basic Docker Command
+
+docker run -i -t ubuntu:14.04
+docker run -i -t -d ubuntu:14.04
 
 
-################################################################################################################################################################
+
+#########################################################################################################################################################################
 You can also create this method.
 
 
